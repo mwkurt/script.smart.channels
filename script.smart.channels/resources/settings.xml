@@ -1,0 +1,36 @@
+<settings version="1">
+    <section id="script.smart.channels">
+        <category id="general" label="32001">
+            <group id="1" label="32002">
+                <setting id="manage_channels" type="action" label="32005" help="32006">
+                    <control type="button" format="action" />
+                    <data>RunScript(script.smart.channels, manage_channels)</data>
+                </setting>
+            </group>	
+        </category>
+        <category id="globals" label="32025" help="32004">
+            <group id="2" label="32003">
+                <setting id="playlist_upper_limit" type="integer" label="32026" help="32004">
+                    <level>0</level>
+                    <default>50</default>
+                    <constraints>
+                        <minimum>1</minimum>
+                        <step>1</step>
+                        <maximum>1000</maximum>
+                    </constraints>
+                    <control type="edit" format="integer">
+                        <popup>false</popup>
+                    </control>
+                </setting>
+            </group>
+        </category>
+        <category id="options" label="32027">
+            <group id="3" label="32027">
+                <setting id="delete_all_channels" type="action" label="32028" help="32029">
+                    <control type="button" format="action" />
+                    <data>RunScript(script.smart.channels, delete_all_channels)</data>
+                </setting>
+            </group>
+        </category>
+    </section>
+</settings>

@@ -1,0 +1,128 @@
+s# Kodi addon strings for script.smart.channels
+msgid ""
+msgstr ""
+"Project-Id-Version: script.smart.channels\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgctxt "#32000"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "#32001"
+msgid "General"
+msgstr "General"
+
+msgctxt "#32002"
+msgid "Channel Manager"
+msgstr "Channel Manager"
+
+msgctxt "#32003"
+msgid "Global Settings"
+msgstr "Global Settings"
+
+msgctxt "#32004"
+msgid "Global configuration options for the addon"
+msgstr "Global configuration options for the addon"
+
+msgctxt "#32005"
+msgid "Add or Edit Channels"
+msgstr "Add or Edit Channels"
+
+msgctxt "#32006"
+msgid "Manage your custom channels"
+msgstr "Manage your custom channels"
+
+msgctxt "#32007"
+msgid "No Channels Created"
+msgstr "No Channels Created"
+
+msgctxt "#32008"
+msgid "Channel deleted successfully!"
+msgstr "Channel deleted successfully!"
+
+msgctxt "#32009"
+msgid "No playlists available to delete."
+msgstr "No playlists available to delete."
+
+msgctxt "#32010"
+msgid "Playlists deleted successfully!"
+msgstr "Playlists deleted successfully!"
+
+msgctxt "#32011"
+msgid "Channel Empty"
+msgstr "Channel Empty"
+
+msgctxt "#32012"
+msgid "Playlists added successfully!"
+msgstr "Playlists added successfully!"
+
+msgctxt "#32013"
+msgid "No playlists selected."
+msgstr "No playlists selected."
+
+msgctxt "#32014"
+msgid "Channel creation cancelled."
+msgstr "Channel creation cancelled."
+
+msgctxt "#32015"
+msgid "Create Empty Channel? Y or N"
+msgstr "Create Empty Channel? Y or N"
+
+msgctxt "#32016"
+msgid "Channel number already exists. Please choose another."
+msgstr "Channel number already exists. Please choose another."
+
+msgctxt "#32017"
+msgid "Edit Channel Number/Name"
+msgstr "Edit Channel Number/Name"
+
+msgctxt "#32018"
+msgid "Channel updated successfully!"
+msgstr "Channel updated successfully!"
+
+msgctxt "#32019"
+msgid "No channels to display."
+msgstr "No channels to display."
+
+msgctxt "#32020"
+msgid "View Channels"
+msgstr "View Channels"
+
+msgctxt "#32021"
+msgid "Configure Advanced Channel Rules? Y or N"
+msgstr "Configure Advanced Channel Rules? Y or N"
+
+msgctxt "#32022"
+msgid "Advanced Channel Rules"
+msgstr "Advanced Channel Rules"
+
+msgctxt "#32023"
+msgid "Advanced rules will be added here in the future."
+msgstr "Advanced rules will be added here in the future."
+
+msgctxt "#32024"
+msgid "Existing Channels"
+msgstr "Existing Channels"
+
+msgctxt "#32025"
+msgid "Globals"
+msgstr "Globals"
+
+msgctxt "#32026"
+msgid "Playlist Upper Limit"
+msgstr "Playlist Upper Limit"
+
+msgctxt "#32027"
+msgid "Options"
+msgstr "Options"
+
+msgctxt "#32028"
+msgid "Delete All Channels"
+msgstr "Delete All Channels"
+
+msgctxt "#32029"
+msgid "Delete all created channels from the channel list."
+msgstr "Delete all created channels from the channel list."

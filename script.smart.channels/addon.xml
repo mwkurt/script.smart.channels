@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.smart.channels" name="Smart Channels" version="1.0.20" provider-name="YourName">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="addon.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">A simple Smart Channels addon with settings</summary>
+        <description lang="en_GB">Creates and manages channels of your local content.</description>
+        <platform>all</platform>
+        <license>MIT</license>
+        <source>https://github.com/yourname/script.smart.channels</source>
+        <assets>
+            <icon>resources/icon.png</icon>
+        </assets>
+    </extension>
+</addon>
